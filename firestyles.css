@@ -1,0 +1,52 @@
+.navbar {
+    background-color: #990000 !important;
+}
+.navbar-brand {
+    color: #FFEE63;
+    font-size: 30px;
+}
+
+.nav-link {
+    color: yellow;
+    font-size: 30px;
+}
+
+.home-data {
+    margin: 20px 0 0 20px;
+}
+
+.login-data {
+    margin: 20px 0 0 20px;
+}
+
+.dashboard-data {
+    margin: 20px 0 0 20px;
+}
+
+.calendar-data {
+    margin: 20px 0 0 20px;
+}
+
+.roster-data {
+    margin: 20px 0 0 20px;
+}
+.footer-data {
+    background-color: #990000;
+    color: #FFEE63;
+    text-align: center;
+}
+
+.logo-data {
+    width: 100%;
+    height: 400px;
+    background-color: #FFEE63;
+    margin-bottom: 20px;
+}
+
+.other-data {
+    width: 100%;
+    height: 400px;
+    background-color: #FFEE63;
+    margin-bottom: 20px;
+}
+
